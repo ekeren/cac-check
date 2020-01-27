@@ -9,7 +9,13 @@ conditions:
       operator: in-array
       operand:
         - fdsfdsdfsdfs2
-    value: true
+      value: true
+   - property:
+      name: rox.platform
+      operator: in-array
+      operand:
+        - fdsfdsdfsdfs2
+      value: true
    - property:
       name: rox.platform
       operator: in-array
@@ -21,55 +27,49 @@ conditions:
       operator: in-array
       operand:
         - fdsfdsdfsdfs2
-    value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs2
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs7
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs1
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs1
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs1
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs1
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs1
-    value: true
+      value: true
    - property:
       name: rox.platform
       operator: in-array
       operand:
         - fdsfdsdfsdfs1
-    value: true
+      value: true
   - property:
       name: rox.platform
       operator: in-array
