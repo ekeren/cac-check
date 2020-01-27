@@ -9,7 +9,6 @@ conditions:
       operator: in-array
       operand:
         - fdsfdsdfsdfs
-    value: true
   - property:
       name: rox.platform
       operator: in-array
