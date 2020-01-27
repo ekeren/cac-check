@@ -4,5 +4,5 @@ type: experiment
 name: enable tutorial
 flag: enableTutorial
 value:
-  - percentage: 70
+  - percentage: 20
     option: true
