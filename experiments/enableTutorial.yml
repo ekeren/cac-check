@@ -8,68 +8,8 @@ conditions:
       name: rox.platform
       operator: in-array
       operand:
-        - fdsfdsdfsdfs2
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs2
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs2
+        - fdsfdsdfsdfs
     value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs2
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs7
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs1
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs1
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs1
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs1
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs1
-      value: true
-   - property:
-      name: rox.platform
-      operator: in-array
-      operand:
-        - fdsfdsdfsdfs1
-      value: true
   - property:
       name: rox.platform
       operator: in-array
