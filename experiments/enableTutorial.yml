@@ -3,6 +3,11 @@
 type: experiment
 name: enable tutorial
 flag: enableTutorial
-value:
-  - percentage: 54
-    option: true
+conditions:
+  - property:
+      name: rox.platform
+      operator: in-array
+      operand:
+        - abc1
+    value: true
+value: true
