@@ -8,6 +8,13 @@ conditions:
       name: rox.platform
       operator: in-array
       operand:
+        - '231321321'
+        - fdsfdsdfsdfs
+    value: true
+  - property:
+      name: rox.platform
+      operator: in-array
+      operand:
         - '21332213'
     value: true
 value: false
