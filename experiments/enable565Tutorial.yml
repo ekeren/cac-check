@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e1adf8ff0c32515d42fcff2
+type: experiment
+name: enable_565 tutorial
+flag: enable_565Tutorial
+conditions:
+  - property:
+      name: rox.platform
+      operator: in-array
+      operand:
+        - abcd2
+  - property:
+      name: rox.platform
+      operator: in-array
+      operand:
+        - abc1
+    value: true
+value: true
