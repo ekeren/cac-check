@@ -8,6 +8,11 @@ conditions:
       name: rox.platform
       operator: in-array
       operand:
+        - abcd2
+  - property:
+      name: rox.platform
+      operator: in-array
+      operand:
         - abc1
     value: true
 value: true
